@@ -20,4 +20,4 @@ The live app is available on heroku here
 Get in Touch
 ===============
 
-I am available on twitter, facebook, linkedin, gmail @dinyangetoh
+I am available on twitter, facebook, linkedin, gmail ..
