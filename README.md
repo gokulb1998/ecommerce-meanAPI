@@ -1,4 +1,4 @@
-# REST HUb 2.0
+# Ecommerce Mean-API
 
 An app demonstrating simple API implementation with NodeJs, Express and MongoDb
 
@@ -13,7 +13,7 @@ The `api` uri preceed all API endpoints and the following endpoints are currentl
 * DELETE `/api/contacts/:id`
 
 The live app is available on heroku here
-https://resthub2.herokuapp.com
+
 
 
 
