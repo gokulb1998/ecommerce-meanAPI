@@ -26,7 +26,7 @@ var db = mongoose.connection;
 // Added check for DB connection
 
 if(!db)
-    console.log("Error connecting database")
+    console.log("Error connecting db")
 else
     console.log("Db connected successfully")
 
