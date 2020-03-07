@@ -13,7 +13,7 @@ The `api` uri preceed all API endpoints and the following endpoints are currentl
 * DELETE `/api/contacts/:id`
 
 The live app is available on heroku here
-
+https://ecommerce-meanapi.herokuapp.com
 
 
 
